@@ -1,13 +1,13 @@
 [Desktop Entry]
 Version=1.0
-Name=My Product
-Comment=A timetrack application
+Name=timetrack
+Comment=Gapless personal time tracking
 # The Exec line includes %u to pass the URL to the application
-Exec=/usr/local/bin/timetrack.exe %u
+Exec=/usr/local/bin/timetrack %u
 Terminal=false
 Type=Application
-Icon=timetrack.exe
+Icon=timetrack
 Categories=Utility;
-StartupWMClass=timetrack.exe
+StartupWMClass=timetrack
 
  
